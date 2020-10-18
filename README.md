@@ -24,5 +24,7 @@ API's used:
 1)Weather API : http://api.openweathermap.org/data/2.5/weather?q=Delhi&units=imperial&appid=0941ecd2acfb0f26b09f7b3ddbb438cf
 
 2)Corona Virus API : https://coronavirus-19-api.herokuapp.com/countries/India
+
+CHATBOT demo video : https://youtu.be/NlTgGMT4gaI
              
             
