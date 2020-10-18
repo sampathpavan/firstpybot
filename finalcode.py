@@ -80,28 +80,6 @@ def show_motivation_menu():
         print("only enter choice 1,2,3 and 4")
         return 0
 
-"""def choice3():
-    option=show_motivation_menu()
-    while(option!=5):
-        if option==1:
-            workfailure_motivation()
-            print()
-            option=show_motivation_menu()
-        elif option==2:
-            breakup_motivation()
-            print()
-            option=show_motivation_menu()
-        elif option==3:
-            friendlost_grief()
-            print()
-            option=show_motivation_menu()
-        elif option==4:
-            parentlost_grief()
-            print()
-            option=show_motivation_menu()
-        else:
-            showmenu()"""
-
 
 def bot():
     greet_and_introduce()
