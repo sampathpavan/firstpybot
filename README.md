@@ -16,5 +16,9 @@ If the user selects option three then it further asks the options to select what
 If you select any option from above then the user will get the motivation related to the users selected option and the bot also gives the user fifth option to quit.
 
 Image of the block diagram: https://drive.google.com/file/d/17OvJVvMjBe8MNxUtHifHR8JpPwxdJvu2/view?usp=sharing
+
+Referred links :1.) https://meet.google.com/linkredirect?   authuser=1&dest=http%3A%2F%2Fapi.openweathermap.org%2Fdata%2F2.5%2Fweather%3Fq%3Ddelhi%26units%3Dimperial%26appid%3D0941ecd2acfb0f26b09f7b3ddbb438cf (weather api)
+
+2.)
              
             
