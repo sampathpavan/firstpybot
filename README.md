@@ -30,5 +30,7 @@ API's used:
 Finally,
 
 CHATBOT demo video : https://youtu.be/NlTgGMT4gaI
+
+In conclusion we can say that our bot gives information and also motivates the people.
              
             
