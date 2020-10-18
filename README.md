@@ -17,7 +17,12 @@ If you select any option from above then the user will get the motivation relate
 
 Image of the block diagram: https://drive.google.com/file/d/17OvJVvMjBe8MNxUtHifHR8JpPwxdJvu2/view?usp=sharing
 
-Referred links :1.) https://meet.google.com/linkredirect?authuser=1&dest=http%3A%2F%2Fapi.openweathermap.org%2Fdata%2F2.5%2Fweather%3Fq%3Ddelhi%26units%3Dimperial%26appid%3D0941ecd2acfb0f26b09f7b3ddbb438cf
-2.)
+Referred links for API usage in python : https://www.dataquest.io/blog/python-api-tutorial/
+
+API's used:
+
+1)Weather API : http://api.openweathermap.org/data/2.5/weather?q=Delhi&units=imperial&appid=0941ecd2acfb0f26b09f7b3ddbb438cf
+
+2)Corona Virus API : https://coronavirus-19-api.herokuapp.com/countries/India
              
             
