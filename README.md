@@ -17,7 +17,7 @@ If the user selects option three then it further asks the options to select what
              4.)Parent loss
 If you select any option from above then the user will get the motivation related to the users selected option and the bot also gives the user fifth option to quit.
 
-Image of the block diagram: https://drive.google.com/file/d/17OvJVvMjBe8MNxUtHifHR8JpPwxdJvu2/view?usp=sharing
+Image of the block diagram: https://drive.google.com/file/d/17OvJVvMjBe8MNxUtHifHR8JpPwxdJvu2/view?usp=sharing,
 https://s.docworkspace.com/d/AB3C-piY-IMykey2mOGdFA
 
 Referred links for API usage in python : https://www.dataquest.io/blog/python-api-tutorial/
